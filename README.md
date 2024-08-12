@@ -3,9 +3,9 @@
 ![Banner](banner.jpg)
 
 ## 🅰️ About
-```
+
 **RyukLoader** is an experimental loader with an integrated builder. It encrypts executable files using the AES-256 algorithm, then hosts the encrypted file on a remote web server. The builder allows you to specify a link to the encrypted file. The stub loader downloads the encrypted file from the provided link, decrypts the executable bytes directly in memory, and executes them without writing them to disk.
-```
+
 
 ## 🛡️ Working Graph
 ![Working Graph](working_graph.png)
@@ -25,7 +25,7 @@
 5. **Execution:** The decrypted executable is run in memory, without ever touching the disk
 
 ## 📸 Video
-
+https://github.com/user-attachments/assets/124316c4-9ba3-4a8f-b513-3c1e4af5a79e
 
 ## 📝 Disclaimer
 
